@@ -1,5 +1,5 @@
 # network_train
-A simple neural network written in c++ and was trained by MNIST,with an accuracy of around 80%.But I currently can't find any further ways to improve the accuracy.  
+A simple neural network written in c++ and was trained by MNIST,with an accuracy of around 88%.But I currently can't find any further ways to improve the accuracy.  
 
 ## Learning rules
 
